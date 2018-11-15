@@ -23,7 +23,7 @@
           "required": true,
           "viewClass": "SelectView",
           "model": {
-            "available": "Available",
+            "available": "shivam",
             "pending": "Pending",
             "sold": "Sold"
           },
@@ -82,7 +82,7 @@
         "out": "./lib/schemas/createPet.out.json"
       }
     },
-    "createPetWithGenerators": {
+    "createPetWit hGenerators": {
       "main": "./lib/actions/createPetWithGenerators.js",
       "title": "Create a Pet With Generators",
       "metadata": {
