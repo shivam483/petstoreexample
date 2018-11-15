@@ -82,7 +82,7 @@
         "out": "./lib/schemas/createPet.out.json"
       }
     },
-    "createPetWit hGenerators": {
+    "createPetWithGenerators": {
       "main": "./lib/actions/createPetWithGenerators.js",
       "title": "Create a Pet With Generators",
       "metadata": {
