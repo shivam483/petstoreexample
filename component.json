@@ -24,7 +24,7 @@
           "viewClass": "SelectView",
           "model": {
             "available": "shivam",
-            "pending": "Pending",
+            "pending": "Pending1",
             "sold": "Sold"
           },
           "prompt": "Select Pet Status"
